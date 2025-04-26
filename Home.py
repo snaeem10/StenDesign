@@ -83,7 +83,7 @@ st.markdown(
     <div class="typing-container">
         <div class="typing-text">WELCOME TO STEN DESIGN</div>
         <div class="subtitle">
-            TRANSFORMING COMPLEXITY TO SIMPLICITY – AIMS TO PROVIDE TOOLS AND AI SOLUTIONS THAT BENEFIT CIVIL ENGINEERS IN DAILY LIFE
+            TRANSFORMING COMPLEXITY TO SIMPLICITY 
         </div>
         <div class="footer">© 2025 Sten Design. All rights reserved.</div>
     </div>
